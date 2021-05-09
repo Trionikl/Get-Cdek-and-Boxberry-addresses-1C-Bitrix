@@ -1,0 +1,12 @@
+
+		<html>
+		<head>
+		<title></title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<style>
+			td {mso-number-format:\@;}
+			.number0 {mso-number-format:0;}
+			.number2 {mso-number-format:Fixed;}
+		</style>
+		</head>
+		<body><table border="1"><tr><td>ID</td><td>Объект</td><td>Название поля</td><td>Тип данных</td><td>Сорт.</td><td>Редакт.</td><td>Поиск</td><td>XML_ID</td><td>Множ.</td><td>Обяз.</td><td>Фильтр</td><td>Показ.</td></tr><tr><td align="right" class="number0">88</td><td>HLBLOCK_9</td><td>UF_DELIVERY_SERVICE</td><td>Адрес</td><td align="right" class="number0">100</td><td>Да</td><td>Нет</td><td>&nbsp;</td><td>нет</td><td>Нет</td><td>не показывать</td><td>Да</td></tr><tr><td align="right" class="number0">87</td><td>HLBLOCK_9</td><td>UF_DOMAIN</td><td>Строка</td><td align="right" class="number0">100</td><td>Да</td><td>Нет</td><td>&nbsp;</td><td>нет</td><td>Нет</td><td>не показывать</td><td>Да</td></tr><tr><td align="right" class="number0">86</td><td>HLBLOCK_9</td><td>UF_OPERATING_MODE</td><td>Строка</td><td align="right" class="number0">100</td><td>Да</td><td>Нет</td><td>&nbsp;</td><td>нет</td><td>Нет</td><td>не показывать</td><td>Да</td></tr><tr><td align="right" class="number0">85</td><td>HLBLOCK_9</td><td>UF_TELEPHONE</td><td>Строка</td><td align="right" class="number0">100</td><td>Да</td><td>Нет</td><td>&nbsp;</td><td>нет</td><td>Нет</td><td>не показывать</td><td>Да</td></tr><tr><td align="right" class="number0">84</td><td>HLBLOCK_9</td><td>UF_EXTERNAL_CODE</td><td>Строка</td><td align="right" class="number0">100</td><td>Да</td><td>Нет</td><td>&nbsp;</td><td>нет</td><td>Нет</td><td>не показывать</td><td>Да</td></tr><tr><td align="right" class="number0">83</td><td>HLBLOCK_9</td><td>UF_ADDRESS</td><td>Строка</td><td align="right" class="number0">100</td><td>Да</td><td>Нет</td><td>&nbsp;</td><td>нет</td><td>Нет</td><td>не показывать</td><td>Да</td></tr></table></body></html>
