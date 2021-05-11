@@ -171,7 +171,7 @@ $arAddressBoxberry = explode(",", $addressBoxberry);
 	
  }
 
-$arAddressBoxberry[1] = str_replace("г", "", $arAddressBoxberry[1]);
+$arAddressBoxberry[1] = str_replace(" г", "", $arAddressBoxberry[1]);
 $arAddressBoxberry[1] = trim($arAddressBoxberry[1]);
 $arAddressBoxberry[1] = "г. " . $arAddressBoxberry[1];
 
